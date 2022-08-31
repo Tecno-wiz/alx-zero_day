@@ -1,1 +1,1 @@
-“Chaning my commit”
+“Changing my commit”
